@@ -4,6 +4,8 @@
 Done with my colleagues 
 K.S.Y / L.E.S / J.H.W / H.S.N
 
+For specific information **RECOMMEND** to read [Chess Project Return.pdf](https://github.com/hansnam1105/Chess-java/blob/master/Chess%20Project%20Return.pdf)
+
 목적
  이 프로젝트의 목적은 체스 게임을 자바로 구현하는 것이다. 1대1 체스 게임 뿐만 아니라 2대2 체스 게임까지 구현해서 4명까지 체스 게임에 참여 할 수 있게 한다. 
 
